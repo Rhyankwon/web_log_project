@@ -8,7 +8,7 @@ create_mysql : Create MySQL database
 
 ## License
 
-See the [LICENSE]<https://github.com/Rhyankwon/web_log_project/blob/main/LICENSE> file for license rights and limitations.
+See the [LICENSE](https://github.com/Rhyankwon/web_log_project/blob/main/LICENSE) file for license rights and limitations.
 
 
 CREATED BY RHYANKWON
