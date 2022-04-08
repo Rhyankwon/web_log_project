@@ -6,6 +6,9 @@ access_log_parser : Can read text files in a folder that web access logs are rec
 check_hashmap : Can read hashmap pickle file.
 create_mysql : Create MySQL database
 
+python version : 3.6.8
+
+
 ## License
 
 See the [LICENSE](https://github.com/Rhyankwon/web_log_project/blob/main/LICENSE) file for license rights and limitations.
