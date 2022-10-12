@@ -2,9 +2,11 @@
 
 ## USE
 
-access_log_parser : Can read text files in a folder that web access logs are recorded in and turn that into python dictionary type -> pandas dataframe -> MySQL DB.
-check_hashmap : Can read hashmap pickle file.
-create_mysql : Create MySQL database
+access_log_parser : 로그파일을 판다스로 읽어서 MySQL db로 넣음
+
+check_hashmap : 해시맵 피클 파일 읽기
+
+create_mysql : MySQL db생성
 
 python version : 3.6.8
 
